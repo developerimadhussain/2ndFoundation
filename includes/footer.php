@@ -1,5 +1,5 @@
 
-      <!--================ start footer Area  =================-->	
+    
         <footer class="footer-area section_gap">
             <div class="container">
                 <div class="row">
@@ -56,7 +56,7 @@
 
 		</div>
         </footer>
-		<!--================ End footer Area  =================-->       		
+		
         <script src="js/jquery-3.2.1.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/wow.min.js"></script>
