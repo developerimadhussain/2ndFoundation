@@ -32,3 +32,9 @@ Explore the live application: [2nd Foundation Live Site](http://2ndfoundation.li
 
 - **SSLCommerz Payment Integration**
   - Secure payment gateway for donors to support educational initiatives.
+
+ 
+ - ## 📚 Technologies Used
+- PHP, MySQL
+- HTML5, CSS3, JavaScript
+- Bootstrap, jQuery
